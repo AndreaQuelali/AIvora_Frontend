@@ -1,0 +1,51 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "search": "Search",
+    "upload": "Upload",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create your account"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "search": "Search",
+    "chat": "AI Chat",
+    "settings": "Settings"
+  },
+  "documents": {
+    "title": "Documents",
+    "upload": "Upload Document",
+    "noDocuments": "No documents yet",
+    "noDocumentsDesc": "Upload your first document to get started."
+  },
+  "search": {
+    "title": "Semantic Search",
+    "placeholder": "Search across your documents...",
+    "noResults": "No results found",
+    "noResultsDesc": "Try a different search term."
+  },
+  "chat": {
+    "title": "AI Chat",
+    "placeholder": "Ask a question about your documents...",
+    "send": "Send"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "confirm": "Confirmar",
+    "search": "Buscar",
+    "upload": "Subir",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signUp": "Crear cuenta",
+    "signOut": "Cerrar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "welcomeBack": "Bienvenido de nuevo",
+    "createAccount": "Crea tu cuenta"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "documents": "Documentos",
+    "search": "Búsqueda",
+    "chat": "Chat con IA",
+    "settings": "Configuración"
+  },
+  "documents": {
+    "title": "Documentos",
+    "upload": "Subir documento",
+    "noDocuments": "Sin documentos aún",
+    "noDocumentsDesc": "Sube tu primer documento para comenzar."
+  },
+  "search": {
+    "title": "Búsqueda semántica",
+    "placeholder": "Busca en tus documentos...",
+    "noResults": "Sin resultados",
+    "noResultsDesc": "Intenta con otro término de búsqueda."
+  },
+  "chat": {
+    "title": "Chat con IA",
+    "placeholder": "Haz una pregunta sobre tus documentos...",
+    "send": "Enviar"
+  }
+}
